@@ -73,5 +73,3 @@ Erro: Por favor, digite apenas números inteiros.
 * Salvamento da senha em arquivo texto
 
 ---
-
-Se quiser, posso **gerar também um ícone**, **melhorar o README**, ou te ajudar a organizar o repositório!
